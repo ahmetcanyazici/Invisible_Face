@@ -39,7 +39,7 @@ rects = detector(gray, 0) # convert to grayscale
 </p>	
 
 ## Installation
-* **Clone** this repository to your local machine using ` https://github.com/aunluhisarcikli/invisible-face.git `
+
 
 * **Requirements** are :
   * Python
